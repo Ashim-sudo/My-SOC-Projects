@@ -1,0 +1,31 @@
+# 01 - SOC Fundamentals
+
+**Completed:** March 30, 2026  
+**Difficulty:** Easy
+
+## What I Learned
+- What is a SOC (Security Operations Center) and its main purpose
+- Different roles in a SOC team (Tier 1, Tier 2, Tier 3)
+- The three pillars of SOC: People, Process, and Technology
+- SOC workflows and how alerts are handled
+- Introduction to incident response basics
+
+## Key Takeaways
+- Understood the daily responsibilities of a SOC Analyst
+- Learned the difference between proactive and reactive security
+- Got familiar with common SOC tools and terminology
+
+## Screenshots
+* *
+
+![SOC Fundamentals Overview](screenshots/soc-overview.png)
+![SOC Team Structure](screenshots/soc-team.png)
+
+## Tools / Concepts Covered
+- Security Operations Center
+- Incident Handling
+- Alert Triage Process
+
+---
+
+**Progress:** Room Completed ✅
