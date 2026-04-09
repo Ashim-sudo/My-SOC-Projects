@@ -1,15 +1,13 @@
-# My-SOC-Projects - TryHackMe
-Hands-on SOC Level 1 training | TryHackMe | SIEM, Splunk, Log Analysis, Alert Triage, Active Directory &amp; M365 Monitoring
-**Practical Hands-on SOC Training**  
-Building real SOC Analyst skills through TryHackMe labs.
+# My SOC Labs - TryHackMe
 
-**Status:** In Progress  
-**Goal:** Prepare for Junior SOC Analyst / Security Operations Internship in Nepal
+**Hands-on Security Operations Training**  
+Practical SOC Analyst skills built through TryHackMe labs.
 
 ## Completed Rooms
 
 - SOC Fundamentals
-- Introduction to SIEM  
+- Introduction to SIEM
+- Cyber Kill Chain
 - Log Analysis with SIEM
 - Splunk Basics - Did you SIEM?
 - Linux Logging for SOC
@@ -21,26 +19,27 @@ Building real SOC Analyst skills through TryHackMe labs.
 - SOC Alert Triaging - Tinsel Triage
 - SOC L1 Alert Reporting
 - M365 Monitoring Basics
-- Dev Diaries
+- Network Traffic Basics
+- Network Security Essentials
+- Detecting Web Attacks
 
 ## Key Skills Gained
-- SIEM Operations & Log Analysis
-- Splunk Query Language (SPL)
-- Linux & Windows Log Investigation
-- Active Directory Monitoring & Anomaly Detection
-- Alert Triage & Incident Response
-- M365 / Entra ID Monitoring
 
-## Tools Practiced
+- SIEM Operations and Log Analysis (Linux & Windows)
+- Splunk Query Language (SPL) basics
+- Alert Triage and Investigation
+- Active Directory & M365 Monitoring
+- Network Traffic Analysis & Web Attack Detection
+- Incident Reporting
+
+## Tools & Technologies Practiced
+
 - Splunk
 - Microsoft Sentinel
-- Linux CLI
-- Active Directory
-- SIEM Log Analysis
+- Wireshark (Network Traffic Analysis)
+- Linux & Windows Event Logs
+- Active Directory Monitoring
 
 ---
 
-**Actively learning SOC skills**  
-Open to **SOC Analyst Internships** or **Junior Security Roles** in Kathmandu.
-
-Last Updated: March 2026
+**Actively building practical SOC skills**  
