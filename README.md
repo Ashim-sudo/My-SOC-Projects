@@ -1,45 +1,47 @@
-# My SOC Labs - TryHackMe
+# My SOC Learning Journey
 
-**Hands-on Security Operations Training**  
-Practical SOC Analyst skills built through TryHackMe labs.
+**Cybersecurity Enthusiast from Nepal**
 
-## Completed Rooms
+Hands-on practical training in Security Operations Center (SOC) skills using TryHackMe and Let's Defend platforms.
 
+### Skills & Tools I'm Practicing
+- **SIEM Operations** (Splunk)
+- Log Analysis (Linux & Windows)
+- Alert Triage & Investigation
+- Active Directory Monitoring
+- M365 / Entra ID Security Monitoring
+- Network Traffic Analysis with Wireshark
+- Incident Reporting
+
+### Completed Training Paths
+**TryHackMe SOC Level 1 Related Rooms:**
 - SOC Fundamentals
 - Introduction to SIEM
 - Cyber Kill Chain
 - Log Analysis with SIEM
-- Splunk Basics - Did you SIEM?
+- Splunk Basics
 - Linux Logging for SOC
 - Linux Incident Surface
 - Windows Logging for SOC
-- Active Directory Basics
-- Monitoring Active Directory
-- SOC L1 Alert Triage
-- SOC Alert Triaging - Tinsel Triage
+- Active Directory Basics & Monitoring
+- SOC L1 Alert Triage & Tinsel Triage
 - SOC L1 Alert Reporting
 - M365 Monitoring Basics
 - Network Traffic Basics
 - Network Security Essentials
 - Detecting Web Attacks
 
-## Key Skills Gained
+**Let's Defend Modules:**
+- Add Data to Splunk
+- Search on Splunk
+- Alerts on Splunk
+- Creating and Managing Reports
 
-- SIEM Operations and Log Analysis (Linux & Windows)
-- Splunk Query Language (SPL) basics
-- Alert Triage and Investigation
-- Active Directory & M365 Monitoring
-- Network Traffic Analysis & Web Attack Detection
-- Incident Reporting
-
-## Tools & Technologies Practiced
-
-- Splunk
-- Microsoft Sentinel
-- Wireshark (Network Traffic Analysis)
-- Linux & Windows Event Logs
-- Active Directory Monitoring
+### Currently Learning
+- Advanced Splunk & Wireshark Malware Traffic Analysis
 
 ---
 
-**Actively building practical SOC skills**  
+
+
+Open to opportunities and collaborations.
